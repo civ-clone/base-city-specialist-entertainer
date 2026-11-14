@@ -13,7 +13,8 @@
   "files": [
     "Entertainer.js",
     "Entertainer.d.ts",
-    "Entertainer.js.map"
+    "Entertainer.js.map",
+    "Entertainer.ts"
   ],
   "scripts": {
     "build": "npm run ts:compile && npm run prettier:format",
